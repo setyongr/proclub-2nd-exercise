@@ -3,9 +3,9 @@ def check_odd_occurences(data_array):
     paired = []
     jomblo = []
     for i in range(panjang):
-
-
-
+		#Cek nilai
+			
+		
 N = input('Masukkan jumlah data : ')
 list = []
 if (N%2 == 1):
